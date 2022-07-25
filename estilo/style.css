@@ -51,8 +51,10 @@ header > p {
     font-size: 1.2em;/*para a letra ficar maior*/
     max-width: 600px;
     padding-left: 10px;/*esse padding é para quando se adaptar no celular ,nao ficar grudado na margem*/
-    padding-right: 10px;
+    padding-bottom: 50px;
+    text-shadow: 2px 2px 0px rgb(0, 0, 315);
     margin:auto
+
 }
 
  nav {
